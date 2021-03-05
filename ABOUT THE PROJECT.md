@@ -29,6 +29,8 @@ https://docs.google.com/presentation/d/1HtX04BIkOnobuLp1rApgckJswSZOmiR65BkMqCCn
 
 
 FILES -
-"app.py" file contains the flask application "Kulchau KYC App.apk" file is the mobile application apk
+"app.py" file contains the flask application 
+"Kulchau KYC App.apk" file is the mobile application apk
+"templates" folder contains the HTML files
  
 
