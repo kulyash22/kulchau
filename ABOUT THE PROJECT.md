@@ -12,7 +12,7 @@ PROBLEM STATEMENT -
 ABOUT THE APPLICATION -
 
 Our application takes a decent image of any KYC document (Aadhaar Card/ PAN Card/ Passport Card/ Voter ID Card/ Driving Licence Card/ NREGA Card) as the input and outputs
-the type of the KYC document (classfication) and the Unique Identification Number (UID) on the KYC Document. 
+the type of the KYC document (classfication) and the Unique Identification Number (UID) on the KYC Document (Extraction). 
 For example - If one inputs an image of his/her PAN Card the output is "This is a PAN Card with UID ^^^^^####^" where "^^^^^####^" is the UID. 
 Along with this a "Heuristic Correctness Index" in percentage would be output. This heuristic score represents the code's confidence that the input image is indeed of the 
 type output by it. An index of 100% would mean that there is a high probability that the input image is of the type output by the code.  
